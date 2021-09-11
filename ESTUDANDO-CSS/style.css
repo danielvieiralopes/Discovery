@@ -1,0 +1,9 @@
+@import 'https://fonts.googleapis.com/css2?family=Glory:ital,wght@0,100;1,800&display=swap';
+
+h1 {
+    color: yellow;
+    font-family: 'Glory', sans-serif;
+}
+strong{
+    color: red;
+}
